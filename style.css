@@ -1,11 +1,12 @@
 h1 {
-	color: red;
+	color: white;
 	font-family: Helvetica;
 }
 
 #containers {
 	display: flex;
 	align-items: center;
+	background-color: red;
 }
 
 #img {
